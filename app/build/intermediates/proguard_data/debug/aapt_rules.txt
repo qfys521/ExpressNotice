@@ -1,6 +1,0 @@
-# Referenced at /storage/emulated/0/Android/data/com.tiecode.develop/files/projects/快递通知/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:20
--keep class cn.qfys521.AlarmReceiver { <init>(); }
-# Referenced at /storage/emulated/0/Android/data/com.tiecode.develop/files/projects/快递通知/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:18
--keep class cn.qfys521.DeliveryStatusService { <init>(); }
-# Referenced at /storage/emulated/0/Android/data/com.tiecode.develop/files/projects/快递通知/app/build/intermediates/merged_manifest/debug/AndroidManifest.xml:22
--keep class cn.qfys521.MainActivity { <init>(); }
